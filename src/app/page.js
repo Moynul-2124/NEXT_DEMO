@@ -5,8 +5,11 @@ export default function Home() {
     <div className="bg-white min-h-screen text-black">
 
 
-          <h1>I love Cute Girl</h1>
+          <div>
 
+
+            
+          </div>
 
 
     </div>

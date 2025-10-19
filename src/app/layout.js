@@ -1,8 +1,8 @@
-import { Archivo_Black } from "next/font/google";
+import { Poppins } from "next/font/google";
 import "./globals.css";
 
-const geistSans = Archivo_Black({
-weight:"400",
+const geistSans = Poppins({
+weight:["400","500","600","700","800"],
 });
 
 
