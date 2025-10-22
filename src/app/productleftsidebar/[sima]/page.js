@@ -14,7 +14,7 @@ const page = async({params}) => {
         <div>
             <div>
 
-                    <p>I_LOVE_HOT_BOYS:{sima}</p>
+                    <p>I_LOVE_HOT_BOYS:{sima} & HOT_GIRL</p>
 
             </div>
         </div>
