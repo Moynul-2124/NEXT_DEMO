@@ -1,6 +1,9 @@
 import { Poppins } from "next/font/google";
 import "./globals.css";
 
+import Header from "./Componenets/Fixed/Header/Header";
+import Footer from "./Componenets/Fixed/Footer";
+
 const geistSans = Poppins({
 weight:["400","500","600","700","800"],
 });
@@ -18,7 +21,21 @@ export default function RootLayout({ children }) {
       <body
         className={`${geistSans.variable}  antialiased`}
       >
-        {children}
+        
+        
+        <div>
+
+            <Header></Header>
+
+        </div>
+        {children}  
+
+        <div>
+
+            <Footer></Footer>
+
+
+        </div>
       </body>
     </html>
   );

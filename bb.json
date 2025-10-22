@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "title": "Minimal Wooden Chair",
+      "slug": "minimal-wooden-chair",
+      "price": "$89.99",
+      "description": "A handcrafted wooden chair made with sustainable oak wood. Perfect for minimal interiors."
+    }
+  ],
+  "topics": [
+    {
+      "name": "Potato Chips 52g",
+      "flavour": "American Cream & Onion",
+      "category": "Crunchy Chips & Snacks",
+      "ratings": 992,
+      "price": 664.00,
+      "discount": "-78%",
+      "mrp": 2999.00,
+      "sku": "WH12",
+      "availability": "IN STOCK",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1990.",
+      "specs": {
+        "closure": "Hook & Loop",
+        "sole": "Polyvinyl Chloride",
+        "width": "Medium",
+        "outer_material": "A-Grade Standard Quality"
+      },
+      "available_weights": [
+        "250g",
+        "500g",
+        "1kg",
+        "2kg"
+      ],
+      "image": "<img src='https://source.unsplash.com/400x300/?potato-chips' alt='Potato Chips' />"
+    },
+    {
+      "name": "Potato Chips 45g",
+      "flavour": "Spicy Peri Peri",
+      "category": "Crunchy Chips & Snacks",
+      "ratings": 645,
+      "price": 499.00,
+      "discount": "-65%",
+      "mrp": 1425.00,
+      "sku": "WH13",
+      "availability": "IN STOCK",
+      "description": "Bold and fiery chips that bring out the heat with every bite. Perfect for spice lovers.",
+      "specs": {
+        "closure": "Zip Lock",
+        "sole": "Rubber Blend",
+        "width": "Medium",
+        "outer_material": "Premium Spiced Blend"
+      },
+      "available_weights": [
+        "250g",
+        "500g",
+        "1kg"
+      ],
+      "image": "<img src='https://source.unsplash.com/400x300/?spicy-chips' alt='Spicy Chips' />"
+    },
+    {
+      "name": "Potato Chips 60g",
+      "flavour": "Tangy Tomato",
+      "category": "Crunchy Chips & Snacks",
+      "ratings": 812,
+      "price": 720.00,
+      "discount": "-70%",
+      "mrp": 2400.00,
+      "sku": "WH14",
+      "availability": "IN STOCK",
+      "description": "Sweet and tangy chips with a burst of tomato flavor in every crunch.",
+      "specs": {
+        "closure": "Resealable Pouch",
+        "sole": "Vinyl",
+        "width": "Medium",
+        "outer_material": "High-Grade Crunchy Mix"
+      },
+      "available_weights": [
+        "500g",
+        "1kg",
+        "2kg"
+      ],
+      "image": "<img src='https://source.unsplash.com/400x300/?tomato-chips' alt='Tomato Chips' />"
+    }
+  ]
+}

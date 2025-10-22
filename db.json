@@ -1,0 +1,231 @@
+{
+  "products": [
+    {
+      "title": "Minimal Wooden Chair",
+      "slug": "minimal-wooden-chair",
+      "price": "$89.99",
+      "description": "A handcrafted wooden chair made with sustainable oak wood. Perfect for minimal interiors.",
+      "category": "Furniture",
+      "size": "Standard",
+      "rating": 4.5,
+      "discountedPrice": "$74.99",
+      "material": "Oak wood"
+    },
+    {
+      "title": "Ergonomic Office Desk",
+      "slug": "ergonomic-office-desk",
+      "price": "$249.50",
+      "description": "A spacious, adjustable desk designed for all-day comfort and productivity.",
+      "category": "Office",
+      "size": "Large",
+      "rating": 4.7,
+      "discountedPrice": "$219.00",
+      "adjustableHeight": true
+    },
+    {
+      "title": "Smart LED Lamp",
+      "slug": "smart-led-lamp",
+      "price": "$45.00",
+      "description": "Voice-controlled LED lamp with adjustable brightness and color temperature.",
+      "category": "Lighting",
+      "size": "Compact",
+      "rating": 4.3,
+      "discountedPrice": "$39.99",
+      "smartFeatures": [
+        "Voice Control",
+        "App Sync",
+        "Dimmable"
+      ]
+    },
+    {
+      "title": "Vintage Wall Clock",
+      "slug": "vintage-wall-clock",
+      "price": "$35.75",
+      "description": "A classic-style wall clock with a brass frame and silent movement.",
+      "category": "Decor",
+      "size": "12 inch",
+      "rating": 4.1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMJrz9sHbE8BRzndRZZVsmIfhrrda7CxQKipaki6LtqUugJCkpD29vxl8&s",
+      "discountedPrice": "$29.95",
+      "frameMaterial": "Brass"
+    },
+    {
+      "title": "Outdoor Bean Bag",
+      "slug": "outdoor-bean-bag",
+      "price": "$120.00",
+      "description": "Water-resistant bean bag, great for patios and poolside lounging.",
+      "category": "Outdoor",
+      "size": "Extra Large",
+      "rating": 4.6,
+      "discountedPrice": "$99.00",
+      "weatherResistant": true
+    }
+  ],
+  "cloth": [
+    {
+      "title": "Faux Fur Hooded Jacket",
+      "slug": "faux-fur-hooded-jacket",
+      "price": "$49.99",
+      "description": "A warm, stylish hooded jacket with soft faux fur lining. Ideal for cold winter outings."
+    },
+    {
+      "title": "Knitted Beanie Hat",
+      "slug": "knitted-beanie-hat",
+      "price": "$14.99",
+      "description": "A cozy knitted beanie hat in light gray, designed to keep little heads warm during winter."
+    },
+    {
+      "title": "Insulated Snow Boots",
+      "slug": "insulated-snow-boots",
+      "price": "$44.99",
+      "description": "Durable and waterproof snow boots with thermal insulation, perfect for snowy adventures."
+    }
+  ],
+  "features": [
+    {
+      "title": "Free Shipping",
+      "description": "Free shipping on all US orders or orders above $200",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsA13FZ0afr8uXM31rAin8FbNd0FgiZ8RLFw&s"
+    },
+    {
+      "title": "24X7 Support",
+      "description": "Contact us 24 hours a day, 7 days a week",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnStw4Zug0RnZPt2liE6o9EtP0kZbyhq6G_w&s"
+    },
+    {
+      "title": "30 Days Return",
+      "description": "Simply return it within 30 days for an exchange",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0MJ44vG6hKGd4W8hatLBbQ0nTG4NVSjl6gQ&s"
+    },
+    {
+      "title": "Payment Secure",
+      "description": "Your payment information is processed securely",
+      "image": "https://c4.wallpaperflare.com/wallpaper/885/58/473/macro-leaves-stones-wallpaper-preview.jpg"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Technology",
+      "slug": "technology",
+      "description": "Latest trends and updates in the tech world.",
+      "image": "https://assets1.ignimgs.com/2016/03/22/blackthefallshot139jpg-0d8af9.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Health & Wellness",
+      "slug": "health-wellness",
+      "description": "Tips and insights for a healthy lifestyle.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShWb8LzHZ0duqnKRjhEwRYWQjBpryFnXPAvQ&s"
+    },
+    {
+      "id": 3,
+      "title": "Travel",
+      "slug": "travel",
+      "description": "Explore new destinations and travel guides.",
+      "image": "https://w0.peakpx.com/wallpaper/320/702/HD-wallpaper-so-cold-after-the-fall-so-lonely-fall-blue-feathers-fallen-angel-woman-snowy-desperation-grey-blue-forest-angel-trees-lake-brunette-loneliness-dark-two-colours-frozen-thumbnail.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Food & Recipes",
+      "slug": "food-recipes",
+      "description": "Delicious recipes and cooking inspiration.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYmKzJLaeVRSLprFUxQICbVxR9t5-LG3iJgA&s"
+    },
+    {
+      "id": 5,
+      "title": "Finance",
+      "slug": "finance",
+      "description": "Advice on managing money, saving, and investing.",
+      "image": "https://i0.wp.com/www.homeontheplains.com/wp-content/uploads/2018/10/fall-2.jpg?resize=711%2C400&ssl=1"
+    },
+    {
+      "id": 6,
+      "title": "Education",
+      "slug": "education",
+      "description": "Insights on learning, schooling, and career growth.",
+      "image": "https://thumbs.dreamstime.com/b/black-cat-autumn-leaves-fence-sunset-digital-art-painting-artwork-sits-falling-beautiful-backdrop-402134547.jpg "
+    },
+    {
+      "id": 7,
+      "title": "Fashion",
+      "slug": "fashion",
+      "description": "Latest styles, outfit ideas, and fashion news.",
+      "image": "https://images8.alphacoders.com/486/thumb-350-486058.webp "
+    },
+    {
+      "id": 8,
+      "title": "Personal Development",
+      "slug": "personal-development",
+      "description": "Grow your mindset, habits, and productivity.",
+      "image": "https://cdn.suwalls.com/wallpapers/funny/it-s-not-the-fall-that-kills-you-14788-400x250.jpg"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Potato Chips 52g",
+      "id": 8,
+      "flavour": "American Cream & Onion",
+      "category": "Crunchy Chips & Snacks",
+      "ratings": 992,
+      "price": 664.00,
+      "discount": "-78%",
+      "mrp": "2,999.00",
+      "sku": "WH12",
+      "availability": "IN STOCK",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1990.",
+      "specs": {
+        "closure": "Hook & Loop",
+        "sole": "Polyvinyl Chloride",
+        "width": "Medium",
+        "outer_material": "A-Grade Standard Quality"
+      },
+      "available_weights": [
+        "250g",
+        "500g",
+        "1kg",
+        "2kg"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71J93R3+TkL.jpg"
+    }
+  ],
+  "hot": [
+    {
+      "name": "Hot Tags & Filters",
+      "category": [
+        "Dairy & Bakery",
+        "Fruits & Vegetable",
+        "Snack & Spice",
+        "Juice & Drinks"
+      ],
+      "weight": [
+        "500gm Pack",
+        "1kg Pack",
+        "2kg Pack",
+        "5kg Pack",
+        "10kg Pack"
+      ],
+      "price": {
+        "from": 0,
+        "to": 250
+      },
+      "color": [],
+      "tags": [
+        "Clothes",
+        "Fruits",
+        "Snacks",
+        "Dairy",
+        "Seafood",
+        "Fastfood",
+        "Toys",
+        "perfume",
+        "jewelry",
+        "Bags"
+      ],
+      "tag": "hot",
+      "description": "This object contains hot filters and popular tags for quick navigation and search refinement.",
+      "availability": "ALWAYS ACTIVE",
+      "sku": "TAG-HOT-01"
+    }
+  ]
+}
